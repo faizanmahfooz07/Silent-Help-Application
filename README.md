@@ -1,6 +1,6 @@
 # silent_application
 
-A new Flutter project.
+Silent Help is a voice-activated SOS app for emergencies. Unlike traditional safety apps that require touch, it lets users discreetly ask for help using voice commands, sending instant alerts and live location to trusted contacts. This ensures quick, silent assistance in dangerous situations without alerting attackers.
 
 ## Getting Started
 
@@ -14,3 +14,4 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
